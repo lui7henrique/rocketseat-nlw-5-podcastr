@@ -1,5 +1,6 @@
 # podcastrnext
-### Para iniciar o projeto 
+### Para iniciar o projeto
 `
-  🚀 yarn start   
+  🚀 yarn start
+  💻 http://localhost:3000
 `
