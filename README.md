@@ -116,5 +116,5 @@ $ npm run dev
 ```
 
 ## Contribuição 💭
-Para construir essa aplicação tive a ajuda do instrutor **Diego Fernandes** da Rocketseat que disponibilizou video aulas do projeto **Podcastr** e tive uma ajuda desta grande comunidade que a Rocketseat construiu no *Discord*.
+Para construir essa aplicação tive a ajuda do instrutor **Diego Fernandes** da Rocketseat que disponibilizou video aulas do projeto **Podcastr** e tive uma ajuda desta grande comunidade que a Rocketseat construiu no *Discord*. <br>
 Feito com 💜 e ☕ by Lui7Henrique & Rocketseat [Participe da nossa comunidade!](https://discord.gg/YxU7fJT)
