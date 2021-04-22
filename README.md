@@ -58,21 +58,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## Desktop Screenshot
 <div style="display: flex; flex-direction: 'column'; align-items: 'center';">
 <!-- Responsive, 1440 x 900, 50% (Laptop L - 1440px)-->
-    <img width="400px" src="./.github/desktop/home-without-podcast.png">
-    <img width="400px" src="./.github/desktop/home-with-podcast.png">
-    <img width="400px" src="./.github/desktop/podcast-information.png">
+    <img width="400px" src="./.github/Home (nada tocando).png">
+    <img width="400px" src="./.github/Home.png">
+    <img width="400px" src="./.github/Interna.png.png>
 </div>
 <a href="./.github/README-IMGS.md">Ver mais</a>
 
-<!--<a href="./.github/README-IMGS.md">Ver mais</a>-->
-    <!-- IMGS
-      ------------------------------
-      home-without-podcast
-      home-with-podcast
-      ------------------------------
-      podcast-information
-      ------------------------------
-    -->
+
 
 ## Rodando o projeto 🚴🏻‍♂️
 #### Na sua maquina:
@@ -116,5 +108,5 @@ $ npm run dev
 ```
 
 ## Contribuição 💭
-Para construir essa aplicação tive a ajuda do instrutor **Diego Fernandes** da Rocketseat que disponibilizou video aulas do projeto **Podcastr** e tive uma ajuda desta grande comunidade que a Rocketseat construiu no *Discord*.
+Para construir essa aplicação tive a ajuda do instrutor **Diego Fernandes** da Rocketseat que disponibilizou video aulas do projeto **Podcastr** e tive uma ajuda desta grande comunidade que a Rocketseat construiu no *Discord*. <br>
 Feito com 💜 e ☕ by Lui7Henrique & Rocketseat [Participe da nossa comunidade!](https://discord.gg/YxU7fJT)
