@@ -64,14 +64,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 </div>
 <a href="./.github/README-IMGS.md">Ver mais</a>
 
-## Mobile Screenshot
-<div style="display: flex; flex-direction: 'row';">
-<!-- Responsive, 425 x 900, 60% (Mobile L - 425px)-->
-    Em breve...
-    <!--<img width="180px" src="./.github/mobile/home-without-podcast.png">-->
-    <!--<img width="180px" src="./.github/mobile/home-with-podcast.png">-->
-    <!--<img width="180px" src="./.github/mobile/podcast-information.png">-->
-</div>
 <!--<a href="./.github/README-IMGS.md">Ver mais</a>-->
     <!-- IMGS
       ------------------------------
@@ -124,5 +116,5 @@ $ npm run dev
 ```
 
 ## Contribuição 💭
-Para construir essa aplicação tive a ajuda do professor **Diego Fernandes** da Rocketseat que disponibilizou video aulas do projeto **Podcastr** e tive uma ajuda desta grande comunidade que a Rocketseat construiu no *Discord*.
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/YxU7fJT)
+Para construir essa aplicação tive a ajuda do instrutor **Diego Fernandes** da Rocketseat que disponibilizou video aulas do projeto **Podcastr** e tive uma ajuda desta grande comunidade que a Rocketseat construiu no *Discord*.
+Feito com 💜 e ☕ by Lui7Henrique & Rocketseat [Participe da nossa comunidade!](https://discord.gg/YxU7fJT)
