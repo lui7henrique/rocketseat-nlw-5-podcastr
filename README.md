@@ -58,8 +58,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## Desktop Screenshot
 <div style="display: flex; flex-direction: 'column'; align-items: 'center';">
 <!-- Responsive, 1440 x 900, 50% (Laptop L - 1440px)-->
-    <img width="400px" src="./.github/Home (nada tocando).png">
-    <img width="400px" src="./.github/Home.png">
+    <img width="400px" src="./.github/Home1.png">
+    <img width="400px" src="./.github/Home2.png">
     <img width="400px" src="./.github/Interna.png.png>
 </div>
 <a href="./.github/README-IMGS.md">Ver mais</a>
