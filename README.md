@@ -54,7 +54,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [NextJS](https://nextjs.org/)
 - [NodeJS](https://nodejs.org/en/)
 
-## Layout 🚧
+## [Layout](https://www.figma.com/file/4HHorHq7GRBgZBaFdbtZlv/Podcastr-(Copy)?node-id=160%3A2761) 🚧
 ## Desktop Screenshot
 <div style="display: flex; flex-direction: 'column'; align-items: 'center';">
 <!-- Responsive, 1440 x 900, 50% (Laptop L - 1440px)-->
