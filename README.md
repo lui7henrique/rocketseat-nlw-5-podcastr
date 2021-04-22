@@ -60,7 +60,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <!-- Responsive, 1440 x 900, 50% (Laptop L - 1440px)-->
     <img width="400px" src="./.github/Home1.png">
     <img width="400px" src="./.github/Home2.png">
-    <img width="400px" src="./.github/Interna.png.png>
+    <img width="400px" src="./.github/Interna.png>
 </div>
 <a href="./.github/README-IMGS.md">Ver mais</a>
 
