@@ -33,14 +33,12 @@
 </p>
 -->
 
-# Podcastr <img src=".github/logo-podcastr.svg" width="30" alt="logo icon">
-Projeto desenvolvido durante a Next Level Week #5 @Rocketseat, feito para gerenciar podcasts e ouvir podcasts 🎧. 
-
-###### O melhor para você ouvir, sempre. 🎧🎶
+# Podcastr
+Projeto desenvolvido durante a Next Level Week #5 @Rocketseat, feito para gerenciar podcasts e ouvir podcasts 🎧.
 
 <br>
 
-#### Funcionalidades <img src=".github/headphone.svg" width="15" alt="logo headphone">
+#### Aulas <img src=".github/headphone.svg" width="15" alt="logo headphone">
 * Escutar podcast.
 * Visualizar sobre o que se trata o podcast.
 * Gerenciar podcasts.
