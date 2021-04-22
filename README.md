@@ -49,12 +49,12 @@ Projeto desenvolvido para gerenciar seus podcasts. Projeto realizado na Next Lev
 
 ## Tecnologias 🚀
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-- [Html | 5](https://pt.wikipedia.org/wiki/HTML)
-- [Sass | ^1.32.11](https://sass-lang.com/)
-- [Typescript | ^4.2.4](https://www.typescriptlang.org/)
-- [ReactJS | ^17.0.2](https://pt-br.reactjs.org/)
-- [NextJS | ^10.1.3](https://nextjs.org/)
-- [NodeJS | ^14.16.1](https://nodejs.org/en/)
+- [Html](https://pt.wikipedia.org/wiki/HTML)
+- [Sass](https://sass-lang.com/)
+- [Typescript](https://www.typescriptlang.org/)
+- [ReactJS](https://pt-br.reactjs.org/)
+- [NextJS](https://nextjs.org/)
+- [NodeJS](https://nodejs.org/en/)
 
 ## Layout 🚧
 ## Desktop Screenshot
@@ -85,9 +85,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
     -->
 
 ## Rodando o projeto 🚴🏻‍♂️
-#### "Só vou dar uma olhadinha...":
-  <a href="https://podcastr-nyctibiusvii.vercel.app/">🎧 Site hospedado na Vercel 🎶</a>
-
 #### Na sua maquina:
 <details>
     <summary>Dependências</summary>
