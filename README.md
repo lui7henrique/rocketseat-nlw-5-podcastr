@@ -39,11 +39,11 @@ Projeto desenvolvido durante a Next Level Week #5 @Rocketseat, feito para gerenc
 <br>
 
 #### Aulas <img src=".github/headphone.svg" width="15" alt="logo headphone">
-* Escutar podcast.
-* Visualizar sobre o que se trata o podcast.
-* Gerenciar podcasts.
-* ❌ Modal Cookies consent
-* ❌ Site responsivo.
+* ✅ Aula 01: Liftoff
+* ✅ Aula 02: Maximum speed
+* ✅ Aula 03: In orbit
+* 💬 Aula 04: Landing
+* 💬 Aula 05: Surface exploration
 
 ## Tecnologias 🚀
 Esse projeto foi desenvolvido com as seguintes tecnologias:
