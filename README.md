@@ -39,44 +39,28 @@ Projeto desenvolvido durante a Next Level Week #5 @Rocketseat, feito para gerenc
 
 ###  Rodando o projeto na sua maquina 🚀
 
-    <details>
-        <summary>Dependências</summary>
-
-        ```json
-            "dependencies": {
-                "axios": "^0.21.1",
-                "date-fns": "^2.21.1",
-                "next": "10.1.3",
-                "react": "17.0.2",
-                "react-dom": "17.0.2",
-                "sass": "^1.32.11"
-            },
-            "devDependencies": {
-                "@types/node": "^14.14.41",
-                "@types/react": "^17.0.3",
-                "@types/react-dom": "^17.0.3",
-                "json-server": "^0.16.3",
-                "typescript": "^4.2.4"
-            }
-            //Ex: $ npm install @types/_____ -D
-        ```
-    </details>
-
+### Clone 
     ```bash
-    # Clone 
     $ git clone https://github.com/lui7henrique/podcastrnext
-
-    # Instale as dependências
-    $ yarn install
-
-    # Execute o script server 
-    $ yarn server 
-
-    # Execute o script "dev"
-    $ yarn dev 
-
-    # O projeto inciará na porta: 3000 - acesse http://localhost:3000
     ```
+    
+### Instale as dependências
+    ```bash
+    $ yarn install
+    ```
+
+ ### Execute o script "server" 
+    ```bash
+    $ yarn server 
+    ```
+
+### Execute o script "dev"
+    ```bash
+    $ yarn dev 
+    ```
+
+### O projeto inciará na porta: 3000 - acesse http://localhost:3000
+ 
 
 
 #### Aulas <img src=".github/headphone.svg" width="15" alt="logo headphone">
