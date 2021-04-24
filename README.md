@@ -35,8 +35,46 @@
 
 # Podcastr
 Projeto desenvolvido durante a Next Level Week #5 @Rocketseat, feito para gerenciar podcasts e ouvir podcasts 🎧.
-
 <br>
+
+###  Rodando o projeto na sua maquina 🚀
+
+### Clone o repositório
+```
+$ git clone https://github.com/lui7henrique/podcastrnext
+```
+    
+### Instale as dependências
+```bash
+$ yarn install 
+//ou 
+npm install
+```
+
+ ### Execute o script "server" 
+```bash
+$ yarn server
+//ou 
+npm run server
+```
+
+### Execute o script "dev"
+```bash
+$ yarn dev 
+//ou 
+npm run dev
+```
+
+### O projeto inciará na porta: 3000 - acesse em http://localhost:3000
+
+
+#### Aulas <img src=".github/headphone.svg" width="15" alt="logo headphone">
+* ✅ Aula 01: Liftoff
+* ✅ Aula 02: Maximum speed
+* ✅ Aula 03: In orbit
+* 💬 Aula 04: Landing
+* 💬 Aula 05: Surface exploration
+
 
 #### Aulas <img src=".github/headphone.svg" width="15" alt="logo headphone">
 * ✅ Aula 01: Liftoff
@@ -64,50 +102,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 </div>
 <a href="./.github/README-IMGS.md">Ver mais</a>
 
-
-
-## Rodando o projeto 🚴🏻‍♂️
-#### Na sua maquina:
-<details>
-    <summary>Dependências</summary>
-
-```json
-    "dependencies": {
-        "axios": "^0.21.1",
-        "date-fns": "^2.21.1",
-        "next": "10.1.3",
-        "react": "17.0.2",
-        "react-dom": "17.0.2",
-        "sass": "^1.32.11"
-    },
-    "devDependencies": {
-        "@types/node": "^14.14.41",
-        "@types/react": "^17.0.3",
-        "@types/react-dom": "^17.0.3",
-        "json-server": "^0.16.3",
-        "typescript": "^4.2.4"
-    }
-    //Ex: $ npm install @types/_____ -D
-```
-</details>
-
-```bash
-# Clone o repositório
-$ git clone https://github.com/lui7henrique/podcastrnext
-
-# Acesse a pasta do projeto no prompt de comando
-$ cd podcastr
-
-# Instale as dependências
-$ npm install
-
-# Execute o script "dev"
-$ npm run dev
-
-# O projeto inciará na porta: 3000 - acesse http://localhost:3000
-```
+## 🧠 Desafios 
+  - [x] Readme
+  - [ ] Responsividade 
+  - [ ] Dark Theme
+  - [ ] Refazer o projeto porém com músicas
+  - [ ] Refazer o projeto porém com filmes
+---
 
 ## Contribuição 💭
-Para construir essa aplicação tive a ajuda do instrutor **Diego Fernandes** que disponibilizou todo o contéudo do projeto **Podcastr**, além do suporte do discord da maior e melhor comunidade de Devs, o servidor no discord da Rocketseat 🚀 
-
-Feito com 💜 e ☕ by Lui7Henrique & Rocketseat [Participe da nossa comunidade!](https://discord.gg/YxU7fJT)
+Feito com 💜 e ☕ by Lui7Henrique
