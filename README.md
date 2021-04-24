@@ -37,44 +37,46 @@
 Projeto desenvolvido durante a Next Level Week #5 @Rocketseat, feito para gerenciar podcasts e ouvir podcasts 🎧.
 <br>
 
-## Rodando o projeto na sua maquina 🚀
-<details>
-    <summary>Dependências</summary>
+###  Rodando o projeto na sua maquina 🚀
 
-```json
-    "dependencies": {
-        "axios": "^0.21.1",
-        "date-fns": "^2.21.1",
-        "next": "10.1.3",
-        "react": "17.0.2",
-        "react-dom": "17.0.2",
-        "sass": "^1.32.11"
-    },
-    "devDependencies": {
-        "@types/node": "^14.14.41",
-        "@types/react": "^17.0.3",
-        "@types/react-dom": "^17.0.3",
-        "json-server": "^0.16.3",
-        "typescript": "^4.2.4"
-    }
-    //Ex: $ npm install @types/_____ -D
-```
-</details>
-```bash
-# Clone 
-$ git clone https://github.com/lui7henrique/podcastrnext
+    <details>
+        <summary>Dependências</summary>
 
-# Instale as dependências
-$ yarn install
+        ```json
+            "dependencies": {
+                "axios": "^0.21.1",
+                "date-fns": "^2.21.1",
+                "next": "10.1.3",
+                "react": "17.0.2",
+                "react-dom": "17.0.2",
+                "sass": "^1.32.11"
+            },
+            "devDependencies": {
+                "@types/node": "^14.14.41",
+                "@types/react": "^17.0.3",
+                "@types/react-dom": "^17.0.3",
+                "json-server": "^0.16.3",
+                "typescript": "^4.2.4"
+            }
+            //Ex: $ npm install @types/_____ -D
+        ```
+    </details>
 
-# Execute o script server 
-$ yarn server 
+    ```bash
+    # Clone 
+    $ git clone https://github.com/lui7henrique/podcastrnext
 
-# Execute o script "dev"
-$ yarn dev 
+    # Instale as dependências
+    $ yarn install
 
-# O projeto inciará na porta: 3000 - acesse http://localhost:3000
-```
+    # Execute o script server 
+    $ yarn server 
+
+    # Execute o script "dev"
+    $ yarn dev 
+
+    # O projeto inciará na porta: 3000 - acesse http://localhost:3000
+    ```
 
 
 #### Aulas <img src=".github/headphone.svg" width="15" alt="logo headphone">
