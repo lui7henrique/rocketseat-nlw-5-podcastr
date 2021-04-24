@@ -40,24 +40,24 @@ Projeto desenvolvido durante a Next Level Week #5 @Rocketseat, feito para gerenc
 ###  Rodando o projeto na sua maquina 🚀
 
 ### Clone 
-    ```bash
-    $ git clone https://github.com/lui7henrique/podcastrnext
-    ```
+```
+$ git clone https://github.com/lui7henrique/podcastrnext
+```
     
 ### Instale as dependências
-    ```bash
-    $ yarn install
-    ```
+```bash
+$ yarn install 
+```
 
  ### Execute o script "server" 
-    ```bash
-    $ yarn server 
-    ```
+```bash
+$ yarn server 
+```
 
 ### Execute o script "dev"
-    ```bash
-    $ yarn dev 
-    ```
+```bash
+$ yarn dev 
+```
 
 ### O projeto inciará na porta: 3000 - acesse http://localhost:3000
  
