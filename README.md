@@ -39,7 +39,7 @@ Projeto desenvolvido durante a Next Level Week #5 @Rocketseat, feito para gerenc
 
 ###  Rodando o projeto na sua maquina 🚀
 
-### Clone 
+### Clone o repositório
 ```
 $ git clone https://github.com/lui7henrique/podcastrnext
 ```
@@ -47,20 +47,25 @@ $ git clone https://github.com/lui7henrique/podcastrnext
 ### Instale as dependências
 ```bash
 $ yarn install 
+//ou 
+npm install
 ```
 
  ### Execute o script "server" 
 ```bash
-$ yarn server 
+$ yarn server
+//ou 
+npm run server
 ```
 
 ### Execute o script "dev"
 ```bash
 $ yarn dev 
+//ou 
+npm run dev
 ```
 
-### O projeto inciará na porta: 3000 - acesse http://localhost:3000
- 
+### O projeto inciará na porta: 3000 - acesse em http://localhost:3000
 
 
 #### Aulas <img src=".github/headphone.svg" width="15" alt="logo headphone">
@@ -89,8 +94,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 </div>
 <a href="./.github/README-IMGS.md">Ver mais</a>
 
+## 🧠 Desafios 
+  - [x] Readme
+  - [ ] Criar tema escuro
+  - [ ] Adicionar switcher de tema   
+  - [ ] Responsividade 
+  - [ ] Refazer o projeto porém com músicas
+  - [ ] Refazer o projeto porém com filmes
+---
 
 ## Contribuição 💭
-Para construir essa aplicação tive a ajuda do instrutor **Diego Fernandes** que disponibilizou todo o contéudo do projeto **Podcastr**, além do suporte do discord da maior e melhor comunidade de Devs, o servidor no discord da Rocketseat 🚀 
-
-Feito com 💜 e ☕ by Lui7Henrique & Rocketseat [Participe da nossa comunidade!](https://discord.gg/YxU7fJT)
+Feito com 💜 e ☕ by Lui7Henrique
