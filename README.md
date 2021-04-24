@@ -66,25 +66,12 @@ npm run dev
 ```
 
 ### O projeto inciará na porta: 3000 - acesse em http://localhost:3000
-
-
-<<<<<<< HEAD
 #### Aulas <img src=".github/headphone.svg" width="15" alt="logo headphone">
 * ✅ Aula 01: Liftoff
 * ✅ Aula 02: Maximum speed
 * ✅ Aula 03: In orbit
-* 💬 Aula 04: Landing
-* 💬 Aula 05: Surface exploration
-
-
-=======
->>>>>>> 237da4ba85488aec6d73e440602ca563cf2c67e7
-#### Aulas <img src=".github/headphone.svg" width="15" alt="logo headphone">
-* ✅ Aula 01: Liftoff
-* ✅ Aula 02: Maximum speed
-* ✅ Aula 03: In orbit
-* 💬 Aula 04: Landing
-* 💬 Aula 05: Surface exploration
+* ✅ Aula 04: Landing
+* ✅ Aula 05: Surface exploration
 
 ## Tecnologias 🚀
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -107,14 +94,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🧠 Desafios 
   - [x] Readme
-<<<<<<< HEAD
   - [ ] Responsividade 
   - [ ] Dark Theme
-=======
-  - [ ] Criar tema escuro
-  - [ ] Adicionar switcher de tema   
-  - [ ] Responsividade 
->>>>>>> 237da4ba85488aec6d73e440602ca563cf2c67e7
   - [ ] Refazer o projeto porém com músicas
   - [ ] Refazer o projeto porém com filmes
 ---
