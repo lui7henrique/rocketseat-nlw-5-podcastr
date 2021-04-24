@@ -58,9 +58,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## Desktop Screenshot
 <div style="display: flex; flex-direction: 'column'; align-items: 'center';">
 <!-- Responsive, 1440 x 900, 50% (Laptop L - 1440px)-->
-    <img width="400px" src="./.github/Home (nada tocando).png">
-    <img width="400px" src="./.github/Home.png">
-    <img width="400px" src="./.github/Interna.png.png>
+    <img width="400px" src="./.github/Home1.png">
+    <img width="400px" src="./.github/Home2.png">
+    <img width="400px" src="./.github/Interna.png">
 </div>
 <a href="./.github/README-IMGS.md">Ver mais</a>
 
@@ -93,7 +93,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ```bash
 # Clone o repositório
-$ git clone https://github.com/NyctibiusVII/Podcastr.git
+$ git clone https://github.com/lui7henrique/podcastrnext
 
 # Acesse a pasta do projeto no prompt de comando
 $ cd podcastr
@@ -108,5 +108,6 @@ $ npm run dev
 ```
 
 ## Contribuição 💭
-Para construir essa aplicação tive a ajuda do instrutor **Diego Fernandes** da Rocketseat que disponibilizou video aulas do projeto **Podcastr** e tive uma ajuda desta grande comunidade que a Rocketseat construiu no *Discord*. <br>
+Para construir essa aplicação tive a ajuda do instrutor **Diego Fernandes** que disponibilizou todo o contéudo do projeto **Podcastr**, além do suporte do discord da maior e melhor comunidade de Devs, o servidor no discord da Rocketseat 🚀 
+
 Feito com 💜 e ☕ by Lui7Henrique & Rocketseat [Participe da nossa comunidade!](https://discord.gg/YxU7fJT)
