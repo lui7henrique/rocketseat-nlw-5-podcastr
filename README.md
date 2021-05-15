@@ -86,7 +86,6 @@ Desktop Screenshots
     <img width="400px" src="./.github/Home2.png">
     <img width="400px" src="./.github/Interna.png">
 </div>
-<a href="./.github/README-IMGS.md">Ver mais</a>
 
 ## Desafios 🧠
   - [x] Readme
@@ -94,7 +93,6 @@ Desktop Screenshots
   - [ ] Dark Theme
   - [ ] Refazer o projeto porém com músicas
   - [ ] Refazer o projeto porém com filmes
----
 
 ## Contribuição 💭
 Feito com 💜 e ☕ by Lui7Henrique
