@@ -15,9 +15,6 @@
     <a href="https://github.com/NyctibiusVII/Podcastr/blob/main/LICENSE">
         <img alt="Licença" src="https://img.shields.io/static/v1?label=License&message=MIT&color=04d361&labelColor=8257e5">
     </a>
-    <a href="https://picpay.me/Matheus_nyctibius_vii">
-        <img alt="Donate" src="https://img.shields.io/static/v1?label=$&message=Donate&color=8257e5&labelColor=04d361">
-    </a>
 </p>
 <p align="center">
     <a href="#podcastr-">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
