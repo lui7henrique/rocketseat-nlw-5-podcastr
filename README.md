@@ -30,7 +30,7 @@
 -->
 
 # Podcastr
-Projeto desenvolvido durante a Next Level Week #5 @Rocketseat, feito para gerenciar podcasts e ouvir podcasts 🎧.
+Projeto desenvolvido durante a Next Level Week #5 @Rocketseat, feito para gerenciar podcasts e ouvir podcasts.
 <br>
 
 ###  Rodando o projeto na sua máquina 🚀
