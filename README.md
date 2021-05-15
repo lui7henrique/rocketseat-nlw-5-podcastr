@@ -7,7 +7,7 @@
 </h4>
 <!-- <h4 align="center">Projeto web construído durante o Next Level Week #05-Discovery com a Rocketseat/DiegoFernandes.</h4> -->
 <p align="center">
-    <img alt="Plataforma" src="https://img.shields.io/static/v1?label=Plataforma&message=Mobile/PC&color=04d361&labelColor=8257e5">
+    <img alt="Plataforma" src="https://img.shields.io/static/v1?label=Plataforma&message=PC&color=04d361&labelColor=8257e5">
     <a aria-label="Completado" href="https://nextlevelweek.com/episodios/react/5/edicao/5">
         <img alt="Podcastr" src="https://img.shields.io/badge/Podcastr-NLW 5.0-04d361?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==&labelColor=8257e5"></img>
     </a>
