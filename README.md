@@ -62,7 +62,7 @@ npm run dev
 ```
 
 ### O projeto inciará na porta: 3000 - acesse em http://localhost:3000
-## Aulas <img src=".github/headphone.svg" width="15" alt="logo headphone">
+## Aulas 📝
 * ✅ Aula 01: Liftoff
 * ✅ Aula 02: Maximum speed
 * ✅ Aula 03: In orbit
@@ -79,7 +79,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [NodeJS](https://nodejs.org/en/)
 
 ## [Layout](https://www.figma.com/file/4HHorHq7GRBgZBaFdbtZlv/Podcastr-(Copy)?node-id=160%3A2761) 🚧
-## Desktop Screenshot
+## Desktop Screenshots
 <div style="display: flex; flex-direction: 'column'; align-items: 'center';">
 <!-- Responsive, 1440 x 900, 50% (Laptop L - 1440px)-->
     <img width="400px" src="./.github/Home1.png">
