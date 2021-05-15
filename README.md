@@ -62,7 +62,7 @@ npm run dev
 ```
 
 ### O projeto inciará na porta: 3000 - acesse em http://localhost:3000
-#### Aulas <img src=".github/headphone.svg" width="15" alt="logo headphone">
+## Aulas <img src=".github/headphone.svg" width="15" alt="logo headphone">
 * ✅ Aula 01: Liftoff
 * ✅ Aula 02: Maximum speed
 * ✅ Aula 03: In orbit
@@ -88,7 +88,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 </div>
 <a href="./.github/README-IMGS.md">Ver mais</a>
 
-## 🧠 Desafios 
+## Desafios 🧠
   - [x] Readme
   - [ ] Responsividade 
   - [ ] Dark Theme
