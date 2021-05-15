@@ -61,7 +61,7 @@ $ yarn dev
 npm run dev
 ```
 
-### O projeto inciará na porta: 3000 - acesse em http://localhost:3000
+> O projeto inciará na porta 3000 - acesse em http://localhost:3000
 ## Aulas 📝
 * ✅ Aula 01: Liftoff
 * ✅ Aula 02: Maximum speed
