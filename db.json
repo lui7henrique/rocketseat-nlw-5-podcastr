@@ -14,45 +14,6 @@
       }
     },
     {
-      "id": "uma-conversa-sobre-programacao-funcional-e-orientacao-a-objetos",      
-      "title": "Faladev #29 | Duas perspectivas diferentes na mesa: uma conversa sobre PF e OOP",
-      "members": "Diego Fernandes, Dani Leão, Laura Beatris e Rafael Camarda",
-      "published_at": "2021-01-15 13:00:00",
-      "thumbnail": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/funcional.jpg",
-      "description": "<p>Diego e Dani receberam Laura Beatris e Rafael Camarda na mesa do Faladev para conversarem sobre programação funcional e programação orientada a objetos.</p><p>Análises de mercado, conceitos na prática e desafios na adoção de qualquer método de desenvolvimento. Tudo isso numa conversa dinâmica e relevante para nosso público.</p><p>A gente passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso. Toda semana reunimos profissionais da tecnologia para discutir sobre tudo que circula na órbita da programação.</p><p>O Faladev é um podcast original Rocketseat.</p>\n",
-      "file": {
-        "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/funcional.m4a",
-        "type": "audio/x-m4a",
-        "duration": 4237
-      }
-    },
-    {
-      "id": "barreiras-e-solucoes-propostas-por-micro-servicos",      
-      "title": "Faladev #28 | Por trás de barreiras e soluções propostas por micro-serviços",
-      "members": "Diego Fernandes, Dani Leão, Wesley Williams e Lucas Santos",
-      "published_at": "2021-01-08 13:00:00",
-      "thumbnail": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/microservicos.jpg",
-      "description": "<p>Os desenvolvedores Wesley Willians e Lucas Santos foram convidados para este Faladev para ter uma conversa sobre o que são micro-serviços e quais são os desafios e as barreiras de sua aplicação.</p><p>Nessa edição, Diego Fernandes e Daniele Evangelista guiam a conversa levantando tópicos e questionamentos relevantes sobre o assunto.</p><p>A gente passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso. Toda semana reunimos profissionais da tecnologia para discutir sobre tudo que circula na órbita da programação.</p><p>O Faladev é um podcast original Rocketseat.  #programação #rocketseat #programador #programador</p>",
-      "file": {
-        "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/microservicos.m4a",
-        "type": "audio/x-m4a",
-        "duration": 5506
-      }
-    },
-    {
-      "id": "aplicacao-de-arquiteturas-mvc-e-clean-architecture-na-pratica",      
-      "title": "Faladev #27 | Aplicação de arquiteturas MVC e CA na prática",
-      "members": "Diego Fernandes, Dani Leão, Otávio Lemos e Rodrigo Branas",
-      "published_at": "2020-12-18 14:00:00",
-      "thumbnail": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/clean.jpg",
-      "description": "<p>Diego Fernandes e Daniele Evangelista receberam Otávio Lemos e Rodrigo Branas para bater um papo sobre arquiteturas modernas de desenvolvimento, aplicadas na indústria da tecnologia.</p><p>Quais são os fundamentos, os princípios e a importância de debater arquiteturas neste ecossistema?</p><p>A gente passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso. Toda semana reunimos profissionais da tecnologia para discutir sobre tudo que circula na órbita da programação.</p><p>O Faladev é um podcast original Rocketseat.  Ficha técnica Hosts: Diego Fernandes e Daniele Leão Evangelista Convidados: Otávio Lemos  e Rodrigo Branas Roteiro: Felipe Buzzi, Beatriz Clasen e Thiago Marinho Edição: Thiago Santana Produção: Leonardo Minatti</p>",
-      "file": {
-        "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/clean.m4a",
-        "type": "audio/x-m4a",
-        "duration": 5044
-      }
-    },
-    {
       "id": "entrevista-jose-valim-criador-do-elixir",      
       "title": "Faladev #26 | Especial: entrevista exclusiva com José Valim, criador da linguagem Elixir",
       "members": "Diego Fernandes e José Valim",
@@ -115,19 +76,6 @@
         "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/typescript.m4a",
         "type": "audio/x-m4a",
         "duration": 1772
-      }
-    },
-    {
-      "id": "estrategias-de-autenticacao-jwt-oauth",      
-      "title": "FalaDev #21 | Estratégias de autenticação, JWT, OAuth, qual usar?",
-      "members": "Diego Fernandes, Higo Ribeiro e Guilherme Pellizzetti",
-      "published_at": "2020-04-09 20:00:00",
-      "thumbnail": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/autenticacao.jpg",
-      "description": "<p>Três programadores conversam sobre estratégia de autenticação.</p><p>Vamos discutir quais aspectos você deve considerar na hora de fazer a sua escolha.</p><p>A gente passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso.</p>",
-      "file": {
-        "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/autenticacao.m4a",
-        "type": "audio/x-m4a",
-        "duration": 1463
       }
     }
   ]
