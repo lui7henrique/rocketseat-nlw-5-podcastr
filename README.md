@@ -35,26 +35,26 @@ Projeto desenvolvido durante a Next Level Week #5 @Rocketseat, feito para gerenc
 
 ###  Rodando o projeto na sua máquina 🚀
 
-### Clone o repositório
+#### Clone o repositório
 ```
 $ git clone https://github.com/lui7henrique/podcastrnext
 ```
     
-### Instale as dependências
+#### Instale as dependências
 ```bash
 $ yarn install 
 //ou 
 npm install
 ```
 
- ### Execute o script "server" 
+#### Execute o script "server" 
 ```bash
 $ yarn server
 //ou 
 npm run server
 ```
 
-### Execute o script "dev"
+#### Execute o script "dev"
 ```bash
 $ yarn dev 
 //ou 
