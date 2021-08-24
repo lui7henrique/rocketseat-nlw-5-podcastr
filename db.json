@@ -14,19 +14,6 @@
       }
     },
     {
-      "id": "uma-conversa-sobre-programacao-funcional-e-orientacao-a-objetos",      
-      "title": "Faladev #29 | Duas perspectivas diferentes na mesa: uma conversa sobre PF e OOP",
-      "members": "Dego Fernandes, Dani Leão, Laura Beatris e Rafael Camarda",
-      "published_at": "2021-01-15 13:00:00",
-      "thumbnail": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/funcional.jpg",
-      "description": "<p>Diego e Dani receberam Laura Beatris e Rafael Camarda na mesa do Faladev para conversarem sobre programação funcional e programação orientada a objetos.</p>",
-      "file": {
-        "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/funcional.m4a",
-        "type": "audio/x-m4a",
-        "duration": 4237
-      }
-    },
-    {
       "id": "barreiras-e-solucoes-propostas-por-micro-servicos",      
       "title": "Faladev #28 | Por trás de barreiras e soluções propostas por micro-serviços",
       "members": "Dego Fernandes, Dani Leão, Wesley Williams e Lucas Santos",
@@ -76,19 +63,6 @@
         "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/design.m4a",
         "type": "audio/x-m4a",
         "duration": 2715
-      }
-    },
-    {
-      "id": "como-virar-lider-desenvolvimento",      
-      "title": "Faladev #24 | Como virar líder de desenvolvimento?",
-      "members": "Dego Fernandes, João Paulo e Cleiton Souza",
-      "published_at": "2020-10-23 14:00:00",
-      "thumbnail": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/lider-desenvolvimento.jpg",
-      "description": "<p>A gente passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso. Toda semana reunimos três profissionais da tecnologia para discutir sobre tudo que circula na órbita da programação.</p><p>O Faladev é um podcast original Rocketseat onde conversamos sobre diversos assuntos que importam para a sua carreira dev. Nesse episódio, Diego Fernandes se reúne com Cleiton Souza e João Paulo de Magalhães para discutir sobre liderança, considerando aspectos profissionais, técnicos e até mesmo emocionais, o que envolve ser um líder de desenvolvimento? Afinal, o que é um líder de desenvolvimento?</p>",
-      "file": {
-        "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/lider-desenvolvimento.m4a",
-        "type": "audio/x-m4a",
-        "duration": 2917
       }
     },
     {
