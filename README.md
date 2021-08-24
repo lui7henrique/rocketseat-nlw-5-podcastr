@@ -24,7 +24,8 @@
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/lui7henrique/podcastr.git && cd podcastr
+$ git clone https://github.com/lui7henrique/podcastr.git
+$ cd podcastr
 ```
 
 **Follow the steps below**
