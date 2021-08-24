@@ -13,21 +13,7 @@
     </a>
     <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/NyctibiusVII/Podcastr?color=04d361&labelColor=8257e5">
 </p>
-<p align="center">
-    <a href="#Podcastr-">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#Aulas-">Aulas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#Tecnologias-">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#Layout-">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#Desafios-">Desafios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#Contribuição-">Contribuição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-<!--
-<p align="center">
-    <a href="README.md">Inglês</a>
-    ·
-    <a href="README-pt.md">Português</a>
-</p>
--->
+
 
 # Podcastr
 Projeto desenvolvido durante a Next Level Week #5 @Rocketseat, feito para gerenciar podcasts e ouvir podcasts.
@@ -63,16 +49,15 @@ npm run dev
 
 > O projeto inciará na porta 3000 - acesse em http://localhost:3000
 
-## Tecnologias 🚀
+## Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Html](https://pt.wikipedia.org/wiki/HTML)
 - [Sass](https://sass-lang.com/)
 - [Typescript](https://www.typescriptlang.org/)
 - [ReactJS](https://pt-br.reactjs.org/)
 - [NextJS](https://nextjs.org/)
-- [NodeJS](https://nodejs.org/en/)
 
-## [Layout](https://www.figma.com/file/4HHorHq7GRBgZBaFdbtZlv/Podcastr-(Copy)?node-id=160%3A2761) 🚧
+## [Layout](https://www.figma.com/file/4HHorHq7GRBgZBaFdbtZlv/Podcastr-(Copy)?node-id=160%3A2761)
 Desktop Screenshots
 <div style="display: flex; flex-direction: 'column'; align-items: 'center';">
 <!-- Responsive, 1440 x 900, 50% (Laptop L - 1440px)-->
@@ -85,8 +70,9 @@ Desktop Screenshots
   - [x] Readme
   - [ ] Responsividade 
   - [ ] Dark Theme
-  - [ ] Refazer o projeto porém com músicas
+  - [x] Refazer o projeto porém com músicas
   - [ ] Refazer o projeto porém com filmes
 
-## Contribuição
-Feito com 💜 e ☕ by Lui7Henrique
+
+---
+<p align="center">Made with 💜 by Luiz Henrique</p>
