@@ -15,44 +15,35 @@
 </p>
 
 
-# Podcastr
-Projeto desenvolvido durante a Next Level Week #5 @Rocketseat, feito para gerenciar podcasts e ouvir podcasts.
-<br>
 
-## Rodando o projeto na sua máquina
+## 💻 Getting started
+### Requirements
 
-#### Clone o repositório
-```
-$ git clone https://github.com/lui7henrique/podcastrnext
-```
-    
-#### Instale as dependências
+- You need to install both [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/) to run this project.
+
+**Clone the project and access the folder**
+
 ```bash
-$ yarn install 
-//ou 
-npm install
+$ git clone https://github.com/lui7henrique/podcastr.git && cd podcastr
 ```
 
-#### Execute o script "server" 
+**Follow the steps below**
+
 ```bash
+# Install the dependencies
+$ yarn
+
+# Run the backend fake server
 $ yarn server
-//ou 
-npm run server
-```
 
-#### Execute o script "dev"
-```bash
-$ yarn dev 
-//ou 
-npm run dev
+# Run the web server
+$ yarn dev
 ```
 
 > O projeto inciará na porta 3000 - acesse em http://localhost:3000
 
-## Tecnologias
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-- [Html](https://pt.wikipedia.org/wiki/HTML)
-- [Sass](https://sass-lang.com/)
+## Tecnologies
+This project was developed using cutting edge front-end technologies.
 - [Typescript](https://www.typescriptlang.org/)
 - [ReactJS](https://pt-br.reactjs.org/)
 - [NextJS](https://nextjs.org/)
@@ -65,14 +56,6 @@ Desktop Screenshots
     <img width="400px" src="./.github/Home2.png">
     <img width="400px" src="./.github/Interna.png">
 </div>
-
-## Desafios
-  - [x] Readme
-  - [ ] Responsividade 
-  - [ ] Dark Theme
-  - [x] Refazer o projeto porém com músicas
-  - [ ] Refazer o projeto porém com filmes
-
 
 ---
 <p align="center">Made with 💜 by Luiz Henrique</p>
