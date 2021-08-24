@@ -33,7 +33,7 @@
 Projeto desenvolvido durante a Next Level Week #5 @Rocketseat, feito para gerenciar podcasts e ouvir podcasts.
 <br>
 
-### Rodando o projeto na sua máquina
+## Rodando o projeto na sua máquina
 
 #### Clone o repositório
 ```
@@ -62,14 +62,8 @@ npm run dev
 ```
 
 > O projeto inciará na porta 3000 - acesse em http://localhost:3000
-### Aulas 📝
-* ✅ Aula 01: Liftoff
-* ✅ Aula 02: Maximum speed
-* ✅ Aula 03: In orbit
-* ✅ Aula 04: Landing
-* ✅ Aula 05: Surface exploration
 
-### Tecnologias 🚀
+## Tecnologias 🚀
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Html](https://pt.wikipedia.org/wiki/HTML)
 - [Sass](https://sass-lang.com/)
@@ -78,7 +72,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [NextJS](https://nextjs.org/)
 - [NodeJS](https://nodejs.org/en/)
 
-### [Layout](https://www.figma.com/file/4HHorHq7GRBgZBaFdbtZlv/Podcastr-(Copy)?node-id=160%3A2761) 🚧
+## [Layout](https://www.figma.com/file/4HHorHq7GRBgZBaFdbtZlv/Podcastr-(Copy)?node-id=160%3A2761) 🚧
 Desktop Screenshots
 <div style="display: flex; flex-direction: 'column'; align-items: 'center';">
 <!-- Responsive, 1440 x 900, 50% (Laptop L - 1440px)-->
@@ -87,12 +81,12 @@ Desktop Screenshots
     <img width="400px" src="./.github/Interna.png">
 </div>
 
-### Desafios
+## Desafios
   - [x] Readme
   - [ ] Responsividade 
   - [ ] Dark Theme
   - [ ] Refazer o projeto porém com músicas
   - [ ] Refazer o projeto porém com filmes
 
-### Contribuição
+## Contribuição
 Feito com 💜 e ☕ by Lui7Henrique
