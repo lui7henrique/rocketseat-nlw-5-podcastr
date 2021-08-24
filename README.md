@@ -14,6 +14,14 @@
     <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/NyctibiusVII/Podcastr?color=04d361&labelColor=8257e5">
 </p>
 
+## Podcastr
+
+<h4>
+  Podcastr is a platform built for podcast broadcasting.
+</h4>
+<img width="100%" src="./.github/Home1.png">
+<img width="100%" src="./.github/Interna.png">
+
 
 
 ## 💻 Getting started
@@ -41,7 +49,7 @@ $ yarn server
 $ yarn dev
 ```
 
-The app will be available for access on your browser at http://localhost:3000
+The app will be available for access on your browser at `http://localhost:3000`
 
 ## Tecnologies
 This project was developed using cutting edge front-end technologies.
@@ -49,14 +57,5 @@ This project was developed using cutting edge front-end technologies.
 - [ReactJS](https://pt-br.reactjs.org/)
 - [NextJS](https://nextjs.org/)
 
-## [Layout](https://www.figma.com/file/4HHorHq7GRBgZBaFdbtZlv/Podcastr-(Copy)?node-id=160%3A2761)
-Desktop Screenshots
-<div style="display: flex; flex-direction: 'column'; align-items: 'center';">
-<!-- Responsive, 1440 x 900, 50% (Laptop L - 1440px)-->
-    <img width="400px" src="./.github/Home1.png">
-    <img width="400px" src="./.github/Home2.png">
-    <img width="400px" src="./.github/Interna.png">
-</div>
-
 ---
-<p align="center">Made with 💜 by Luiz Henrique</p>
+<p align="center">Made with 💜 by Luiz Henrique 👋 <a href="https://www.linkedin.com/in/luiz-henrique7/">Check out my LinkedIn</a></p>
